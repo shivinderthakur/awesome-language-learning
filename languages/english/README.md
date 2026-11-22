@@ -69,3 +69,4 @@ Resources for learning English, organized by skill and CEFR level.
 - [Italki](https://www.italki.com/) - Find English tutors or native speakers for language exchange.
 - [Tandem](https://www.tandem.net/) - Find people from all over the world, make friends and practice your languages for free.
 - [HelloTalk](https://www.hellotalk.com/) - Practice English with native speakers via chat.
+- [WordSlick](https://wordslick.com/) - AI speaking practice with corrections explained in your own language, such as Hindi, Portuguese or Spanish.
